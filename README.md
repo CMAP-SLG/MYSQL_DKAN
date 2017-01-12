@@ -14,4 +14,5 @@ To install the database use the following commands...
    mysql > source /YOUR/DIRECTORY/DATABASENAME.sql
 
 The database should now be visable using the following command
+
 show databases;
