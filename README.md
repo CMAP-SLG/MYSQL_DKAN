@@ -22,4 +22,5 @@ show databases;
 EXPORT or DUMP ***
 
 cd /YOUR/DIRECTORY/
+
 $ mysqldump -u root -p THE_DATABASE_NAME > database_name_date.sql
